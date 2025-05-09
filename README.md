@@ -6,7 +6,7 @@ TubeForge AI is an autonomous multi-agent system for YouTube content creation, f
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/TubeForgeAI.git
+   git clone https://github.com/officialnyabuto/TubeForgeAI.git
    cd TubeForgeAI
    ```
 
