@@ -255,7 +255,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support, questions, or feature requests:
 - **GitHub Issues**: [Create an issue](https://github.com/officialnyabuto/tubeforge/issues)
-- **Email**: [Contact the maintainer](mailto:officialnyabuto@gmail.com)
+- **Email**: [Contact the maintainer](mailto:ronnyabuto@gmail.com)
 - **Documentation**: [Wiki](https://github.com/officialnyabuto/tubeforge/wiki)
 
 ## 🔮 Roadmap
